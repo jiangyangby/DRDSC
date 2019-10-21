@@ -36,7 +36,7 @@ def train(iteration, X, y, CAE, lr, alpha, max_step):
 
 
 if __name__ == '__main__':
-    data = sio.loadmat('./data/COIL20_gnoise0.4.mat')
+    data = sio.loadmat('./data/COIL20.mat')
     X = data['fea'].astype(float)
     y = data['gnd']
     X = np.reshape(X, (X.shape[0], 32, 32, 1))
