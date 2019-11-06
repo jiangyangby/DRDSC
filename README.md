@@ -23,8 +23,9 @@ Please cite our paper if you use this code in your own work:
 ```
 @inproceedings{jiang2019duet,
   title={Duet Robust Deep Subspace Clustering},
-  author={Jiang, Yangbangyan and Yang, Zhiyong and Xu, Qianqian and Cao, Xiaochun and Huang, Qingming},
-  booktitle={2019 ACM Conference on Multimedia},
+  author={Jiang, Yangbangyan and Xu, Qianqian and Yang, Zhiyong and Cao, Xiaochun and Huang, Qingming},
+  booktitle={{ACM} International Conference on Multimedia},
+  pages={1596--1604},
   year={2019}
 }
 ```
